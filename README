@@ -1,3 +1,9 @@
 ## Simple Bank Scraper 
 
-Run `phantomjs native.js.coffee` to tell you your balance
+1. Edit native.js.coffee to user your creditials.
+2. Run `phantomjs native.js.coffee` to tell you your balance
+
+
+I'm interested in advanced web scraping. This is me learning phantomjs and heroku buildpacks. 
+
+The idea was that I could put this script on heroku, then GET a simple url that would return my personal bank balance. Would like to make an android widget that displays my balance on my home screen, or a Mac menu bar widget that makes my safe-to-spend balance easy to access. 
