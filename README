@@ -1,0 +1,3 @@
+## Simple Bank Scraper 
+
+Run `phantomjs native.js.coffee` to tell you your balance

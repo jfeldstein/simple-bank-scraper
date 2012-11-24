@@ -1,0 +1,12 @@
+{
+  "name": "simple-api",
+  "version": "0.0.2",
+  "dependencies": {
+    "phantom":"git://github.com/amir20/phantomjs-node.git#phantom-1.7-fix",
+    "express":"*"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
